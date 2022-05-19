@@ -1,0 +1,33 @@
+header {
+    height: 80px;
+    background-color: #2c3e50;
+}
+.col {
+    background-color: red;
+}
+
+ul {
+    list-style-type:none;
+    padding: 0;
+    margin: 0;
+    text-align: end;
+}
+
+li {
+    display: inline-block;
+    text-align: end;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.msburger {
+    text-align: end;
+    display: inline;
+}
+
+.mscenter {
+    /* line-height: 80px; */
+}
