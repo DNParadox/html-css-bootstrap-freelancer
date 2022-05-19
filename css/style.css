@@ -51,11 +51,7 @@ a {
 }
 
 /* Portfolio */
-.portfolio {
-}
 
-.portfolio .col {
-}
 
 .mjustify {
     align-items: center;
@@ -74,4 +70,14 @@ a {
 .about {
     background-color: #1abc9c;
     color: white;
+}
+
+footer {
+    background-color: #3a546d;
+    padding-top:1rem;
+}
+
+footer .col-sm-12 {
+
+    margin-bottom: 1rem;
 }
