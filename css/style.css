@@ -113,11 +113,12 @@ section {
 
 /* test */
 
-input.test {
+.test {
     border-top-style: hidden;
     border-right-style: hidden;
     border-left-style: hidden;
     border-bottom: 1px solid lightgrey;
+    margin-bottom: 2rem;
 }
     
 /* footer */
@@ -137,3 +138,6 @@ footer .col-sm-12 {
     padding: 2rem 0 ;
 }
 
+footer li {
+    text-align: center;
+}
